@@ -8,4 +8,4 @@ Steps include:
 2. EDA
 3. Preprocessing
 4. Hyperparameter selection
-5. implementation of Cox Regression
+5. Implementation of Cox Regression
